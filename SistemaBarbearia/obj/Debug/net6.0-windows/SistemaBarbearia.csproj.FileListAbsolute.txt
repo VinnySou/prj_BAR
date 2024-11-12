@@ -1,0 +1,874 @@
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+S:\#Turma 76 - Tec em Informática\UC-12\Vinicius De Souza\Projetos\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\Versões\#Versão Principal\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Versão WEB\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Versões\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+E:\Documentos_hd\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Login.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.BuscaAgendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Busca.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia (1)\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.Buscas.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\SistemaBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.Buscas.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Pacote Completo\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaMexer\Pacote Completo\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Sistema Barbearia (1)\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\Brunin Bala Tensa\Downloads\aqui mesmo\Sistema Barbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\prj_SisBarbearia\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CopyComplete
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\violi\OneDrive\Área de Trabalho\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.exe
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.deps.json
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.runtimeconfig.json
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.AssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaInicial.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Properties.Resources.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Agendamento.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_BuscaAgendamentos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_Buscas.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadCategoria.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadClientes.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadFunc.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.View.frm_CadServicos.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.frm_TelaPrincipal.resources
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.GenerateResource.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaB.AC3ECCF1.Up2Date
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\refint\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.pdb
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.genruntimeconfig.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\ref\SistemaBarbearia.dll
+C:\Users\souza\OneDrive\Área de Trabalho\Vinícius\Programação\Projeto Final-COMPLETO\AplicacaoDesktop\SistemaBarbearia\obj\Debug\net6.0-windows\SistemaBarbearia.Form1.resources

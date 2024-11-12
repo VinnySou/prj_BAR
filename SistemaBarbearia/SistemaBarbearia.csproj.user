@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\#Versão Principal\SistemaBarbearia\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_TelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_Buscas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_Agendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_BuscaAgendamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_CadCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_CadFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_CadClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frm_CadServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

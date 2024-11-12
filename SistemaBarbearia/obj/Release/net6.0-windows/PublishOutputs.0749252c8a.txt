@@ -1,0 +1,13 @@
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\SistemaBarbearia.exe
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\SistemaBarbearia.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\SistemaBarbearia.deps.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\SistemaBarbearia.runtimeconfig.json
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\SistemaBarbearia.pdb
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Google.Protobuf.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\K4os.Compression.LZ4.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\K4os.Hash.xxHash.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\MySql.Data.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\Ubiety.Dns.Core.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\ZstdNet.dll
+S:\#Turma 76 - Tec em Informática\UC-16\Vinícius - Felipy - Bruno\Versões\BouncyCastle.Crypto.dll
